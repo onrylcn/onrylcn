@@ -13,7 +13,7 @@
 <a href="https://stackoverflow.com/users/22416746" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22416746" height="30" width="40" /></a>
 <a href="https://codesandbox.com/onuryalcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="onuryalcin" height="30" width="40" /></a>
 <a href="https://hashnode.com/@onuryalcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@onuryalcin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/onuryalcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="onuryalcin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@onuryalcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="onuryalcin" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/onrylcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="onrylcn" height="30" width="40" /></a>
 </p>
 
